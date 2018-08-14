@@ -7,10 +7,11 @@
 This is a project for [Udacity Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). The Linux Server Configuration project focused on the installation of a Linux distribution on a virtual machine and preparing it to host [a web application](https://github.com/tayomadein/fsnd-catalog), to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers. 
 
 ## Accessing the Server
+>- This server as been stopped
 
-* URL: [Home](http://35.180.121.118/)
+* URL: ~[Home](http://35.180.121.118/)~
 * SSH port: changed from 22 to 2200
-* IP adress: 35.180.121.118
+* IP adress: ~35.180.121.118~
 
 ## Configuration
 ---
