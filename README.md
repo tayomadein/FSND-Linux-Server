@@ -75,6 +75,8 @@ This is a project for [Udacity Full Stack Web Developer Nanodegree](https://www.
     >* Run `chmod 700 .ssh` and `chmod 644 .ssh/authorized_keys`
     >* Open `/etc/ssh/sshd_config` and ensure that `PasswordAuthentication` is set to **no**
     >* Run `sudo service ssh restart`
+* You can login via the grader user by running
+    ```ssh -i ~/.ssh/file_name_key.pub -p 2200 grader@[public-ip-address]```
 
 ### Deployment
 
